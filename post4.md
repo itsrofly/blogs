@@ -14,7 +14,7 @@ This vulnerability means that any sensitive information stored within a system p
 
 The attached image illustrates the outcome of exploring a language model's boundaries. Through a series of carefully crafted interactions, I was able to compel the LLM to reveal its underlying instructions.
 
-https://github.com/user-attachments/assets/d2f97f31-c248-4ada-826c-f0ebcf3b660b
+![Illustration](https://github.com/user-attachments/assets/d2f97f31-c248-4ada-826c-f0ebcf3b660b)
 
 The revealed prompt, shown in the image, contained the AI's operational rules in Portuguese. It was instructed to:
   * Act as a Portuguese AI assistant.
